@@ -1,0 +1,5 @@
+C:\Users\Anton\Dropbox\Webbprogrammering\GitHub\Projekt-ASP-Databas\ImageGallery\ImageGallery\bin\ImageGallery.dll
+C:\Users\Anton\Dropbox\Webbprogrammering\GitHub\Projekt-ASP-Databas\ImageGallery\ImageGallery\bin\ImageGallery.pdb
+C:\Users\Anton\Dropbox\Webbprogrammering\GitHub\Projekt-ASP-Databas\ImageGallery\ImageGallery\obj\Debug\ImageGallery.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Dropbox\Webbprogrammering\GitHub\Projekt-ASP-Databas\ImageGallery\ImageGallery\obj\Debug\ImageGallery.dll
+C:\Users\Anton\Dropbox\Webbprogrammering\GitHub\Projekt-ASP-Databas\ImageGallery\ImageGallery\obj\Debug\ImageGallery.pdb

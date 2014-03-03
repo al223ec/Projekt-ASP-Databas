@@ -19,6 +19,8 @@ Användaren ska kunna ladda upp och sortera bilder till olika fotoalbum, bilder 
 <p>
 Databasen är uppbyggd så att användare också ska kunna kommentera de olika bilderna, detta kommer inte implementeras fullt ut.
 </p>
+
+
 <h2>Avikelse</h2>
 <p>
 Albumpicture får en sammansatt nyckel med PictureID och AlbumID för att jag inte vill att man ska kunna lägga till samma bild flera ggr i samma album.

@@ -1,13 +1,17 @@
 Projekt-ASP-Databas
 ===================
 --
-1. Problembeskrivning
+<h1>
+1. Problembeskrivning </h1>
+<p>
 Jag har tänkt göra en applikation där man kan ladda upp och visa bilder.
- 
+</p>
+<p>
 Användaren ska kunna ladda upp och sortera bilder till olika fotoalbum, bilder kan tillhöra många album och albumen har många tillhörande bilder.
+</p>
  
 ●     Användare ska kunna visa bilder efter kategori.
-●     Användare ska kunna visa bilder från specifika album. 
+●     Användare ska kunna visa bilder från specifika album.
 ●     Användare ska kunna kommentera de olika bilderna.
 ●     Användaren ska kunna visa alla bilder i databasen.
 

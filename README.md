@@ -10,11 +10,10 @@ Jag har tänkt göra en applikation där man kan ladda upp och visa bilder.
 Användaren ska kunna ladda upp och sortera bilder till olika fotoalbum, bilder kan tillhöra många album och albumen har många tillhörande bilder.
 </p>
  <ul>
-
-<li> ●     Användare ska kunna visa bilder efter kategori.</li>
-<li> ●     Användare ska kunna visa bilder från specifika album.</li>
-<li> ●     Användare ska kunna kommentera de olika bilderna.</li>
-<li> ●     Användaren ska kunna visa alla bilder i databasen.</li>
+<li> Användare ska kunna visa bilder efter kategori.</li>
+<li> Användare ska kunna visa bilder från specifika album.</li>
+<li> Användare ska kunna kommentera de olika bilderna.</li>
+<li> Användaren ska kunna visa alla bilder i databasen.</li>
 </ul>
 <h2>Avikelse<7h2>
 <p>
@@ -28,4 +27,6 @@ Nyckeln i Comment består också den av en sammansatt nyckel PictureID först, d
 En bild måste inte finnas i Gallerypicture tabellen, dvs en bild kan finnas utan tillhörande album. Bilden kan fortfarande kommas åt från Pictures tabellen.
 Bildens namn är inklusive filändelsen. 
 </p>
+<h2>
 Kommentarer
+</h2>
